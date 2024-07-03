@@ -4,7 +4,7 @@ This is a (very basic) Rust project for the BBC micro:bit embedded development b
 
 It uses the micro:bit's LED display matrix to show an animation (the illuminated LED appears to chase round the edge of the display clockwise).
 
-![](https://docs.rust-embedded.org/discovery/microbit/assets/roulette_fast.mp4)
+https://github.com/bitfield/microbit-beachball/assets/142262/2a74eeb1-f824-4e61-a8b2-7721008f4f96
 
 (Video borrowed from the book)
 

@@ -1,7 +1,7 @@
 [package]
-name = "led-roulette"
+name = "beachball"
 version = "0.1.0"
-authors = ["Henrik Böving <hargonix@gmail.com>"]
+authors = ["John Arundel <john@bitfieldconsulting.com>"]
 edition = "2018"
 
 [dependencies.microbit-v2]

@@ -12,7 +12,7 @@ use panic_rtt_target as _;
 use rtt_target::rtt_init_print;
 
 const ANIM_LENGTH: usize = 16;
-const FRAME_TIME_MS: u32 = 10;
+const FRAME_TIME_MS: u32 = 20;
 
 #[entry]
 fn main() -> ! {
@@ -30,7 +30,7 @@ fn main() -> ! {
 
         // clear the display again
         display.clear();
-        timer.delay_ms(FRAME_TIME_MS);
+        // timer.delay_ms(FRAME_TIME_MS);
     }
 }
 
